@@ -1,0 +1,59 @@
+
+body{
+
+  text-align: center;
+  background-color: #efefef;
+}
+.contenedor{
+
+  font-family: sans-serif;
+  text-transform: uppercase;
+  color: #3C4450;
+  width: 100%;
+
+}
+.titular{
+  font-size: 48px;
+  margin-bottom: 0px;
+
+
+
+}
+.titular span{
+  margin-top: -40px;
+  font-weight: bold;
+  font-size: 180px;
+  display: block;
+}
+.requisitos{
+  color: #767B84;
+  font-size: 18px;
+  width: 350px;
+  margin: 0 auto;
+  text-align: left;
+  margin-bottom: 60px;
+}
+
+.requisitos ul li {
+  display: list-item;
+  list-style-type: circle;
+  color: #F05F60;
+  font-size: 46px;
+
+}
+.requisitos ul li span{
+  color: #3C4450;
+}
+.envianos{
+  color: #F05F60;
+}
+.envianos a{
+  display: block;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-weight: bold;
+  color: #F05F60;
+}
+.logo{
+  font-family: 'Orbitron', sans-serif;
+}
